@@ -1,0 +1,158 @@
+use bottlesowine;
+
+INSERT INTO foods (food_id, food_name) VALUES (1, "Beef");
+INSERT INTO foods (food_id, food_name) VALUES (1, "Lamb");
+INSERT INTO foods (food_id, food_name) VALUES (1, "Venison");
+INSERT INTO foods (food_id, food_name) VALUES (2, "Salami");
+INSERT INTO foods (food_id, food_name) VALUES (2, "Proscuitto");
+INSERT INTO foods (food_id, food_name) VALUES (2, "Bresaola");
+INSERT INTO foods (food_id, food_name) VALUES (2, "Bacon");
+INSERT INTO foods (food_id, food_name) VALUES (3, "Roast");
+INSERT INTO foods (food_id, food_name) VALUES (3, "Tenderloin");
+INSERT INTO foods (food_id, food_name) VALUES (3, "Pork Chop");
+INSERT INTO foods (food_id, food_name) VALUES (4, "Chicken");
+INSERT INTO foods (food_id, food_name) VALUES (4, "Duck");
+INSERT INTO foods (food_id, food_name) VALUES (4, "Turkey");
+INSERT INTO foods (food_id, food_name) VALUES (5, "Oyster");
+INSERT INTO foods (food_id, food_name) VALUES (5, "Mussel");
+INSERT INTO foods (food_id, food_name) VALUES (5, "Clam");
+INSERT INTO foods (food_id, food_name) VALUES (6, "Tuna");
+INSERT INTO foods (food_id, food_name) VALUES (6, "Cod");
+INSERT INTO foods (food_id, food_name) VALUES (6, "Trout");
+INSERT INTO foods (food_id, food_name) VALUES (6, "Bass");
+INSERT INTO foods (food_id, food_name) VALUES (7, "Prawn");
+INSERT INTO foods (food_id, food_name) VALUES (7, "Crab");
+INSERT INTO foods (food_id, food_name) VALUES (7, "Langoustine");
+INSERT INTO foods (food_id, food_name) VALUES (8, "Brie");
+INSERT INTO foods (food_id, food_name) VALUES (8, "Mascarpone");
+INSERT INTO foods (food_id, food_name) VALUES (8, "Creme Fraiche");
+INSERT INTO foods (food_id, food_name) VALUES (9, "Bleu");
+INSERT INTO foods (food_id, food_name) VALUES (9, "Gorgonzola");
+INSERT INTO foods (food_id, food_name) VALUES (9, "Stilton");
+INSERT INTO foods (food_id, food_name) VALUES (9, "Roquefort");
+INSERT INTO foods (food_id, food_name) VALUES (10, "Cheddar");
+INSERT INTO foods (food_id, food_name) VALUES (10, "Pecorino");
+INSERT INTO foods (food_id, food_name) VALUES (10, "Manchego");
+INSERT INTO foods (food_id, food_name) VALUES (10, "Asiago");
+INSERT INTO foods (food_id, food_name) VALUES (10, "Parmesan");
+INSERT INTO foods (food_id, food_name) VALUES (11, "Onion");
+INSERT INTO foods (food_id, food_name) VALUES (11, "Shallot");
+INSERT INTO foods (food_id, food_name) VALUES (11, "Garlic");
+INSERT INTO foods (food_id, food_name) VALUES (11, "Scallion");
+INSERT INTO foods (food_id, food_name) VALUES (12, "Green Bean");
+INSERT INTO foods (food_id, food_name) VALUES (12, "Kale");
+INSERT INTO foods (food_id, food_name) VALUES (12, "Lettuce");
+INSERT INTO foods (food_id, food_name) VALUES (13, "Turnip");
+INSERT INTO foods (food_id, food_name) VALUES (13, "Butternut Squash");
+INSERT INTO foods (food_id, food_name) VALUES (13, "Pumpkin");
+INSERT INTO foods (food_id, food_name) VALUES (13, "Delicata");
+INSERT INTO foods (food_id, food_name) VALUES (13, "Carrot");
+INSERT INTO foods (food_id, food_name) VALUES (14, "Tomato");
+INSERT INTO foods (food_id, food_name) VALUES (14, "Eggplant");
+INSERT INTO foods (food_id, food_name) VALUES (14, "Bell Pepper");
+INSERT INTO foods (food_id, food_name) VALUES (15, "Crimini");
+INSERT INTO foods (food_id, food_name) VALUES (15, "Maitake");
+INSERT INTO foods (food_id, food_name) VALUES (15, "Chanterelle");
+INSERT INTO foods (food_id, food_name) VALUES (16, "Peanut");
+INSERT INTO foods (food_id, food_name) VALUES (16, "Almond");
+INSERT INTO foods (food_id, food_name) VALUES (16, "Pecan");
+INSERT INTO foods (food_id, food_name) VALUES (16, "Sesame");
+INSERT INTO foods (food_id, food_name) VALUES (17, "Lentil");
+INSERT INTO foods (food_id, food_name) VALUES (17, "Navy");
+INSERT INTO foods (food_id, food_name) VALUES (17, "Pinto");
+INSERT INTO foods (food_id, food_name) VALUES (17, "Chickpea");
+INSERT INTO foods (food_id, food_name) VALUES (18, "Black Pepper");
+INSERT INTO foods (food_id, food_name) VALUES (19, "Ancho");
+INSERT INTO foods (food_id, food_name) VALUES (19, "Aleppo");
+INSERT INTO foods (food_id, food_name) VALUES (19, "Chipotle");
+INSERT INTO foods (food_id, food_name) VALUES (19, "Chili");
+INSERT INTO foods (food_id, food_name) VALUES (20, "Hot Sauce");
+INSERT INTO foods (food_id, food_name) VALUES (20, "Habanero");
+INSERT INTO foods (food_id, food_name) VALUES (20, "Sichuan");
+INSERT INTO foods (food_id, food_name) VALUES (21, "Thyme");
+INSERT INTO foods (food_id, food_name) VALUES (21, "Oregano");
+INSERT INTO foods (food_id, food_name) VALUES (21, "Basil");
+INSERT INTO foods (food_id, food_name) VALUES (21, "Tarragon");
+INSERT INTO foods (food_id, food_name) VALUES (22, "Cinnamon");
+INSERT INTO foods (food_id, food_name) VALUES (22, "Clove");
+INSERT INTO foods (food_id, food_name) VALUES (22, "Allspice");
+INSERT INTO foods (food_id, food_name) VALUES (22, "Mace");
+INSERT INTO foods (food_id, food_name) VALUES (23, "Anise");
+INSERT INTO foods (food_id, food_name) VALUES (23, "Tumeric");
+INSERT INTO foods (food_id, food_name) VALUES (23, "Saffron");
+INSERT INTO foods (food_id, food_name) VALUES (23, "Fennel");
+INSERT INTO foods (food_id, food_name) VALUES (23, "Ginger");
+INSERT INTO foods (food_id, food_name) VALUES (24, "Flour");
+INSERT INTO foods (food_id, food_name) VALUES (24, "White Rice");
+INSERT INTO foods (food_id, food_name) VALUES (24, "Pasta");
+INSERT INTO foods (food_id, food_name) VALUES (24, "Bread");
+INSERT INTO foods (food_id, food_name) VALUES (24, "Tortillas");
+INSERT INTO foods (food_id, food_name) VALUES (25, "Quinoa");
+INSERT INTO foods (food_id, food_name) VALUES (25, "Farro");
+INSERT INTO foods (food_id, food_name) VALUES (25, "Brown Rice");
+INSERT INTO foods (food_id, food_name) VALUES (26, "Sweet Potato");
+INSERT INTO foods (food_id, food_name) VALUES (26, "Yucca");
+INSERT INTO foods (food_id, food_name) VALUES (26, "Taro");
+INSERT INTO foods (food_id, food_name) VALUES (27, "Potato");
+INSERT INTO foods (food_id, food_name) VALUES (28, "Strawberry");
+INSERT INTO foods (food_id, food_name) VALUES (28, "Orange");
+INSERT INTO foods (food_id, food_name) VALUES (28, "Apple");
+INSERT INTO foods (food_id, food_name) VALUES (28, "Peach");
+INSERT INTO foods (food_id, food_name) VALUES (29, "Creme Brulee");
+INSERT INTO foods (food_id, food_name) VALUES (29, "Ice Cream");
+INSERT INTO foods (food_id, food_name) VALUES (30, "Chocolate & Coffee");
+
+
+
+use bottlesowine;
+
+
+INSERT INTO wines (wine_id, wine_class) VALUES (1, "Bold Red");
+INSERT INTO wines (wine_id, wine_class) VALUES (2, "Medium Red");
+INSERT INTO wines (wine_id, wine_class) VALUES (3, "Light Red");
+INSERT INTO wines (wine_id, wine_class) VALUES (4, "Rose");
+INSERT INTO wines (wine_id, wine_class) VALUES (5, "Rich White");
+INSERT INTO wines (wine_id, wine_class) VALUES (6, "Light White");
+INSERT INTO wines (wine_id, wine_class) VALUES (7, "Sparkling");
+INSERT INTO wines (wine_id, wine_class) VALUES (8, "Sweet Wine");
+INSERT INTO wines (wine_id, wine_class) VALUES (9, "Dessert Wine");
+
+
+use bottlesowine;
+
+
+INSERT INTO wnames (wine_id, wine_name) VALUES (1, "Malbec");
+INSERT INTO wnames (wine_id, wine_name) VALUES (1, "Syrah");
+INSERT INTO wnames (wine_id, wine_name) VALUES (1, "Cabernet Sauvignon");
+INSERT INTO wnames (wine_id, wine_name) VALUES (2, "Merlot");
+INSERT INTO wnames (wine_id, wine_name) VALUES (2, "Zinfandel");
+INSERT INTO wnames (wine_id, wine_name) VALUES (2, "Tempranillo");
+INSERT INTO wnames (wine_id, wine_name) VALUES (3, "Pinot Noir");
+INSERT INTO wnames (wine_id, wine_name) VALUES (3, "Grenache");
+INSERT INTO wnames (wine_id, wine_name) VALUES (3, "St. Laurent");
+INSERT INTO wnames (wine_id, wine_name) VALUES (4, "White Zinfandel");
+INSERT INTO wnames (wine_id, wine_name) VALUES (4, "Pinot Noir Rose");
+INSERT INTO wnames (wine_id, wine_name) VALUES (4, "Syrah Rose");
+INSERT INTO wnames (wine_id, wine_name) VALUES (5, "Chardonnay");
+INSERT INTO wnames (wine_id, wine_name) VALUES (5, "Semillon");
+INSERT INTO wnames (wine_id, wine_name) VALUES (5, "Viognier");
+INSERT INTO wnames (wine_id, wine_name) VALUES (6, "Sauvignon Blanc");
+INSERT INTO wnames (wine_id, wine_name) VALUES (6, "Pinot Blanc");
+INSERT INTO wnames (wine_id, wine_name) VALUES (6, "Pinot Gris / Pinot Grigio");
+INSERT INTO wnames (wine_id, wine_name) VALUES (7, "Champagne");
+INSERT INTO wnames (wine_id, wine_name) VALUES (7, "Sparkling Wine");
+INSERT INTO wnames (wine_id, wine_name) VALUES (7, "Sparkling Rose");
+INSERT INTO wnames (wine_id, wine_name) VALUES (8, "Moscato");
+INSERT INTO wnames (wine_id, wine_name) VALUES (8, "Riesling");
+INSERT INTO wnames (wine_id, wine_name) VALUES (8, "Alsacian Pinot Gris");
+INSERT INTO wnames (wine_id, wine_name) VALUES (9, "Port");
+INSERT INTO wnames (wine_id, wine_name) VALUES (9, "Sherry");
+INSERT INTO wnames (wine_id, wine_name) VALUES (9, "Madeira");
+
+
+use bottlesowine;
+
+
+INSERT INTO pairings (wine_id, food_id, food_name, wine_name, wine_bottle) VALUES (1, 1, "Beef", "Malbec", "Mt. Brave, Malbec, Mount Veeder, 2014");
+INSERT INTO pairings (wine_id, food_id, food_name, wine_name, wine_bottle) VALUES (1, 1, "Beef", "Syrah/Shiraz", "Plumpjack Winery, Syrah, Napa Valley, 2013");
+INSERT INTO pairings (wine_id, food_id, food_name, wine_name, wine_bottle) VALUES (1, 1, "Beef", "Cabernet Sauvignon", "Hundred Acre, Deep Time Cabernet Sauvignon, Napa Valley, 2007");
